@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## API SETUP
+api link = http://www.omdbapi.com?apikey=YOUR_API_KEY
 ## Available Scripts
 
 In the project directory, you can run:
